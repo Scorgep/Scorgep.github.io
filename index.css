@@ -1,0 +1,7 @@
+body {
+  background-color: #ff00ff; /* Replace with your desired chroma color code */
+  color: #ffffff; /* Set text color to white for better visibility */
+}
+h1, p {
+  text-align: center;
+}
